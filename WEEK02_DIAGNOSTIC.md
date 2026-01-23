@@ -1,0 +1,13 @@
+- Have you used Git before? If yes, describe when and how. 
+-- Very little, outside of learning how it works in general, as well as some dev commands for saving, commiting, and pushing changes.
+- Have you used GitHub outside of class (projects, issues, pull requests, etc.)? -- Yes. Refer to Q1.
+- Which programming languages are you most comfortable with? -- Python, and HTML.
+- Rate your comfort level with C# from 1–5 and explain your rating. --2. It feels like I forgot a good majority of what I learned when I took the class.
+- Have you written unit tests before? If yes, what framework(s)? -- No.
+- Have you built or consumed an HTTP API before? -- no, though that will change soon.
+- Which IDE or editor have you used the most? -- I'll say MSSQL.
+- What part of programming feels hardest for you right now? -- Remembering the structure for certain programming languages.
+- What do you hope to be able to build confidently by the end of the semester? -- Simple prograams that showcase my ability to navigate this platform.
+- After completing the Microsoft Learn Git module:
+- What was one new concept for you? -- Learning to save changes.
+- What concept feels clearer now than before? -- Understanding how Linux commands as a whole work, since I'm taking Intro to Linux.
