@@ -37,6 +37,11 @@ do
 
             Console.WriteLine(taskItems);
 
+            foreach(var item in taskItems)
+            {
+                Console.WriteLine($"{item.Id}: {item.Title}");
+            }
+
             break;
         case 2:
     //dotnet restore
