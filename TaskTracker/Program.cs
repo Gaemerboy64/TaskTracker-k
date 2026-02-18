@@ -42,6 +42,9 @@ do
                 Console.WriteLine($"{item.Id}: {item.Title}");
             }
 
+            Console.WriteLine(taskItems);
+            Console.WriteLine(TaskItem.TotalCount);
+
             break;
         case 2:
     //dotnet restore
