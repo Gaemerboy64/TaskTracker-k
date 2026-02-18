@@ -18,17 +18,9 @@ do
     {
         case 1:
             // list the tasks
-            //TODO: add a project reference by turning the Domain into a Class library
-            TaskItem task0ne = new();
-            task0ne.Id = 1;
-            task0ne.Title = "Work on Project Modpack";
-            TaskItem tasktwo = new();
-            tasktwo.Id = 2;
-            tasktwo.Title = "Random text here";
-            TaskItem taskthree = new();
-            taskthree.Id = 3;
-            taskthree.Title = "More random text";
-
+            TaskItem task0ne = new("Work on Project Modpack");
+            TaskItem tasktwo = new("Random text here");
+            TaskItem taskthree = new("More random text");
 
             List<TaskItem> taskItems = [];
             taskItems.Add(task0ne);
